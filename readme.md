@@ -1,4 +1,4 @@
-﻿
+
 
 
 
@@ -30,7 +30,7 @@ Symbols are ignored.
 
 **Usage**
 	
-	import {Dupify} from 'dupify'
+	import {Dupify} from 'deep-clone-and-serialize'
 	var dupify=new Dupify()
 
 	var obj={object tree and stuff}
